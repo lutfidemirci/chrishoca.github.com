@@ -1,6 +1,8 @@
 # chrishoca.github.com
 http://chrishoca.github.io/
 
+http://www.chrisstephensonyalnizdegildir.com
+
 Merhaba, bizler Chris Hoca'nin ogrencileri ve akademide beraber calismis arkadaslari olarak kendisine destek olma umuduyla boyle bir proje baslattik.
 
 Isteyenlerin destek amacli imza atabilecegi, farkli mecralardaki haberlerin derlendigi, sosyal medya yansimalarinin yer aldigi bir web sitesi yapiyoruz.
